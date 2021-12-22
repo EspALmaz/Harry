@@ -30,7 +30,7 @@ The site must meet the requirements presented below
 ![](./4.jpg)
 
 ### Links
-- Live Site URL: ()
+- Live Site URL: (https://espalmaz.github.io/Harry/)
 
 
 ### My process
@@ -135,5 +135,5 @@ In the future, we are going to study various aspects of Javascript, HTML and CSS
 - (https://developer.mozilla.org/ru /) this resource also has a lot of useful articles on various topics , on this site we found answers to some of our questions.
 ### Authors
 Tashimov Almaz and Kiyas Laura
-- Website  ()
-- Repository ( )
+- Website  ( https://espalmaz.github.io/Harry/ )
+- Repository ( https://github.com/EspALmaz/Harry.git )
