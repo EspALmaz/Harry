@@ -116,10 +116,26 @@ These are examples from our code that are the most successful and new to us:
     }
 ```
 ```js
- <span onclick="alert('Transform your brand and Stand out to the right audience'); return false;">Project</span>
-                    <div class="contact" onclick="alert('Our contacts are located at the bottom of the page'); return false;">
-                        Contact
-                    </div>
+$(document).ready(function() {
+$("#forms").validate({
+rules: {
+username : {
+required: true,
+minlength: 5,
+maxlength: 15
+},
+email: {
+required: true,
+email: true
+},
+password: {
+  required: true,
+minlength: 6,
+maxlength: 12
+},
+}
+});
+});
 ```
 
 
